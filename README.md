@@ -1,19 +1,19 @@
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pedromax222) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/marton.szabo.222/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)]([https://reddit.com/user/u/Sufficient-Sail5210](https://www.reddit.com/user/Sufficient-Sail5210/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maximus.ludio@protonmail.com) 
-
-# 💻 Tech Stack:
-[![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)](https://community.cisco.com/t5/user/viewprofilepage/user-id/1838898) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/pedro222420/) [![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/play/user/Pedromax2222)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maximus23451&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Maximus23451&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximus23451&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Maximus23451&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MSzabo57?country.x=HU&locale.x=en_US) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ SZE Still in Progress
+    💻 Network Engineering and HTML
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
+<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://images.guns.lol/0mgrI.gif)" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
+[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+</div>
