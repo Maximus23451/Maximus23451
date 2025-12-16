@@ -1,6 +1,6 @@
-Hi, I'm Max a student from Hungary.  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Maximus23451.Maximus23451&left_text=Visitors)
+Hi, I'm Max a student from Hungary. 
 I'm studying at SZE-IVK in Győr.
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Maximus23451.Maximus23451&left_text=Visitors)
 ## Contact Me
 <p><a href="https://mludio.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
