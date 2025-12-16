@@ -1,4 +1,4 @@
-Hi, I'm Max a student from Hungary.
+Hi, I'm Max a student from Hungary.  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Maximus23451.Maximus23451&left_text=Visitors)
 I'm studying at SZE-IVK in Győr.
 
 ## Contact Me
