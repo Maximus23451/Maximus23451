@@ -1,6 +1,6 @@
 Hi, I'm Max a student from Hungary. I'm studying at SZE-IVK in Győr.
 <br></br>
-//I like to take photos of beautiful things like sunsets, the moon, and everything in between when I'm not studying.
+When I'm not studying or working on a passion project, then I like to take photos of beautiful things like sunsets, the moon, and everything in between.
 ## Contact Me
 <p><a href="https://mludio.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
